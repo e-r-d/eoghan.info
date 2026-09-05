@@ -26,7 +26,7 @@ body div {
 }
 
 #notbold {
-    font-weight: normal;
+    font-weight: normal !important;
 
 }
 
