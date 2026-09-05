@@ -10,6 +10,8 @@ max-height: 100%;
 margin: 2%;
 padding: 0;}
 
+
+
 body div {
   margin: auto;
   width: 100%;
@@ -22,6 +24,13 @@ body div {
   margin: 5px;
   padding: 0;
 }
+
+#notbold {
+    font-weight: normal;
+
+}
+
+
 
 body div span{
   font-style: italic;
